@@ -20,6 +20,8 @@ import {
   placeholderImage,
   threejs,
   unectologo,
+  lightwave_logo,
+  freelance_logo,
 } from "../assets";
 
 export const navLinks = [
@@ -102,6 +104,31 @@ const technologies = [
 const experiences = [
   {
     title: "Front End Developer",
+    company_name: "Freelancer",
+    icon: freelance_logo,
+    iconBg: "#fff",
+    date: "Sep 2025 - Present",
+    points: [
+      "Delivered end-to-end frontend solutions for multiple clients, focusing on scalable React-based applications and clean, maintainable UI architecture.",
+      "Designed and implemented reusable component systems to accelerate development and ensure visual and behavioral consistency across projects.",
+      "Improved application performance by applying efficient state management patterns, memoization, and component-level optimizations.",
+    ],
+  },
+  {
+    title: "Front End Developer",
+    company_name: "Lightwave Consultants (Client JioStar)",
+    icon: lightwave_logo,
+    iconBg: "#fff",
+    date: "May 2024 - July 2025",
+    points: [
+      "Built modular, reusable UI components using React, improving consistency across screens and reducing feature delivery time.",
+      "Optimized application performance through efficient state management, memoization, and lazy loading, contributing to faster page loads and smoother user interactions.",
+      "Integrated frontend applications with backend APIs, handling complex data flows, error states, and edge cases in a production-scale environment.",
+      "Collaborated closely with product managers, designers, and backend engineers to translate business requirements into scalable, user-friendly interfaces.",
+    ],
+  },
+  {
+    title: "Front End Developer",
     company_name: "Navro Technologies(Unecto)",
     icon: unectologo,
     iconBg: "#14122e",
@@ -141,19 +168,6 @@ const experiences = [
       "Implementing responsive design and ensuring cross-browser compatibility.",
       "Understand client's requirement and come up with programming solution for the same.",
       "Basic deployment of application on play store and apple store.",
-    ],
-  },
-  {
-    title: "Mobile Application Developer",
-    company_name: "SkyGoal® Inc",
-    icon: skygoal,
-    iconBg: "#fff",
-    date: "Apr 2021 - Dec 2021",
-    points: [
-      " Develop UI as per Figma.",
-      "Create reusable component in React Native.",
-      "Come up with solutions to improve application performance.",
-      "Rewrite existing code with latest features and optimised way.",
     ],
   },
 ];

@@ -25,6 +25,8 @@ import digitalsalt from "./company/digitalsalt.png";
 import unectologo from "./company/unecto_logo.jpg";
 import digiinterface from "./company/digiinterface.jpg";
 import skygoal from "./company/skygoal.png";
+import lightwave_logo from "./company/lightwave_logo.png";
+import freelance_logo from "./company/freelance.png";
 
 import hedgedImage from "./hedged.webp";
 import mahindraLifespacesImage from "./mahindra-lifespaces.webp";
@@ -56,6 +58,8 @@ export {
   digitalsalt,
   digiinterface,
   skygoal,
+  lightwave_logo,
+  freelance_logo,
   hedgedImage,
   mahindraLifespacesImage,
   placeholderImage,
