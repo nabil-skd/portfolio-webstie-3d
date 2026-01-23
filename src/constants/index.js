@@ -146,7 +146,7 @@ const experiences = [
     company_name: "Digital Salt",
     icon: digitalsalt,
     iconBg: "#000000",
-    date: "Jun 2022 - Feb 2024",
+    date: "Jun 2022 - Jan 2024",
     points: [
       "Developed and maintained client-side business logic for both admin panels and user-facing applications, improving product scalability and user experience.",
       "Optimized performance by implementing data caching strategies on the client-side,which reduced app latency by 15%.",
@@ -161,7 +161,7 @@ const experiences = [
     company_name: "Digiinterface Pvt Ltd",
     icon: digiinterface,
     iconBg: "#fff",
-    date: "Dec 2021 - Jun 2022",
+    date: "Dec 2021 - May 2022",
     points: [
       "Collaborate with UX team and management for technical problems.",
       "Implement and maintain client-side validation and error handling.",
