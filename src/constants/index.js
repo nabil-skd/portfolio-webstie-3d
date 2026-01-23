@@ -119,7 +119,7 @@ const experiences = [
     company_name: "Lightwave Consultants (Client JioStar)",
     icon: lightwave_logo,
     iconBg: "#fff",
-    date: "May 2024 - July 2025",
+    date: "May 2025 - July 2025",
     points: [
       "Built modular, reusable UI components using React, improving consistency across screens and reducing feature delivery time.",
       "Optimized application performance through efficient state management, memoization, and lazy loading, contributing to faster page loads and smoother user interactions.",
@@ -132,7 +132,7 @@ const experiences = [
     company_name: "Navro Technologies(Unecto)",
     icon: unectologo,
     iconBg: "#14122e",
-    date: "Feb 2024 - Present",
+    date: "Feb 2024 - Jan 2025",
     points: [
       "Lead the frontend development of Unecto, a community-building platform for university students.",
       "Developed interactive features like event scheduling, social interaction tools, and real-time campus trends, increasing user engagement by 25% within 6 months.",
