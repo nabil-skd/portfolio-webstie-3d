@@ -103,8 +103,8 @@ const technologies = [
 
 const experiences = [
   {
-    title: "Front End Developer",
-    company_name: "Freelancer",
+    title: "Frontend Consultant",
+    company_name: "Self-Employed",
     icon: freelance_logo,
     iconBg: "#fff",
     date: "Sep 2025 - Present",
@@ -115,8 +115,8 @@ const experiences = [
     ],
   },
   {
-    title: "Front End Developer",
-    company_name: "Lightwave Consultants (Client JioStar)",
+    title: "Frontend Developer",
+    company_name: "Lightwave Consultants (Contract Client: JioStar)",
     icon: lightwave_logo,
     iconBg: "#fff",
     date: "May 2025 - July 2025",
@@ -128,7 +128,7 @@ const experiences = [
     ],
   },
   {
-    title: "Front End Developer",
+    title: "Frontend Developer",
     company_name: "Navro Technologies(Unecto)",
     icon: unectologo,
     iconBg: "#14122e",
@@ -142,7 +142,7 @@ const experiences = [
     ],
   },
   {
-    title: "Front End Developer",
+    title: "Frontend Developer",
     company_name: "Digital Salt",
     icon: digitalsalt,
     iconBg: "#000000",
