@@ -8,12 +8,12 @@ import { Link } from "react-router-dom";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 
 const data = [
-  {
-    id: 1,
-    name: "GitHub",
-    link: "https://github.com/nabilsk?tab=repositories",
-    icon: faGithub,
-  },
+  // {
+  //   id: 1,
+  //   name: "GitHub",
+  //   link: "https://github.com/nabilsk?tab=repositories",
+  //   icon: faGithub,
+  // },
   {
     id: 2,
     name: "LinkedIn",
